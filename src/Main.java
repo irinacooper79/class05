@@ -7,7 +7,6 @@ public class Main {
         Author author2 = new Author("Виктор", "Пелевин");
         Book book2 = new Book("Чапаев и Пустота", author2, 1996);
 
-
         System.out.println(book1.getBookName());
         System.out.println(book1.getAuthor().fullName());
         System.out.println(book1.getPublished());
