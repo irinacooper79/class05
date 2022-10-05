@@ -13,6 +13,5 @@ public class Main {
 
         book1.setPublished(2001);
         System.out.println(book1.getPublished());
-
     }
 }
